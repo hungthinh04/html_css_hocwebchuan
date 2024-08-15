@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    background-color: #8598CC;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    margin: 20px auto;  
+    text-align: center;
+}
+
+.text .text1 p  {
+   display: inline-block;
+
+}
+.text_blue{
+    color: rgb(76, 98, 208);
+   
+}
+
+.text .text1{   
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.text .text2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.twobutton{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.twobutton .button_left {
+    background-color: black;
+    height: 70px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+}
+
+.twobutton .button_right{
+    background-color: black;
+    height: 70px;
+    width: 200px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    margin-left: 70px;
+}
+

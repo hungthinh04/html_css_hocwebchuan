@@ -1,0 +1,39 @@
+.grid{
+    display: inline-block;
+    width: 370px;
+    
+}
+
+.container{
+    
+  
+    text-align: center;
+}
+
+.circle{
+    border: 3px solid black;
+ border-color: #87C2C2;
+    width: 60px;
+    height: 50px;
+    margin: auto;
+    border-radius: 9999px;
+    line-height: 50px;
+}
+.icon > i {
+    color: #87C2C2;
+    font-size: 20px;
+}
+.t1{
+    margin-top: 10px;
+    font-weight: 600;
+}
+.t2
+{
+    margin-top: 20px;
+}
+.grid{
+    margin-top: 20px;
+    background-color: #F8F8F8;
+    padding: 5px;
+    margin-left: 20px;
+}

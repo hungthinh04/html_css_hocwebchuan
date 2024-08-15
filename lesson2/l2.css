@@ -1,0 +1,30 @@
+.container {
+    background-image: url('https://images.unsplash.com/photo-1723477450561-791fd67efa56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyOXx8fGVufDB8fHx8fA%3D%3D');
+  
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-size: cover;
+    height: 300px; 
+    width: 500px; 
+    background-position: center;
+    margin-top: 50px;
+    display: flex; /* Sử dụng flexbox */
+    flex-direction: column; /* Căn giữa các phần tử theo chiều dọc */
+    justify-content: center; /* Căn giữa theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều ngang */
+}
+
+.text1, .text2, .button {
+    text-align: center;
+    margin-bottom: 10px; /* Khoảng cách giữa các phần tử */
+    color: white; /* Đổi màu chữ cho dễ nhìn trên nền tối */
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Nền mờ cho nút */
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}

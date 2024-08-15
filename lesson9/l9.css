@@ -1,0 +1,25 @@
+*{
+    list-style: none;
+}
+.grid{
+    width: 250px;
+   
+}
+
+.grid ul {
+    padding: 4px 10px 3px;
+    
+}
+
+.grid ul li{
+    display: inline-block;
+    background-color: #01BACF;
+    margin-bottom: 20px;
+    height: 30px;
+   padding: 2px;
+   align-items: center;
+   text-align: center;
+   line-height: 30px;
+   border-radius: 5px;
+   color: aliceblue;
+}

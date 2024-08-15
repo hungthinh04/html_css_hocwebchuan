@@ -1,0 +1,6 @@
+    grid-template-columns:repeat(3,1fr)  ;
+    khi co 9item trong grid thi se tao thanh 
+    ma tran 3x3
+
+    hoc cach dung calc(500px/3)
+    cursor:pointer

@@ -1,0 +1,13 @@
+9elements github.io  dieu chinh border radius theo y minh
+---------- abc ----------
+tao ra div class la t1 va t2 , chu o giua
+witdh t1t2 25% height 1px
+
+text flex :1 , text-align center
+
+
+display : grid 
+chia cac the div thanh cach khoi cach deu nhau
+grid-template-columns:repeat(4,1fr) => lap lai 4 lan cach nhau 1 khoang
+= 1fr ( vi du chieu rong cua container la 1000px thi se lay 1000/4
+=> moi the grid se co width la 250px )

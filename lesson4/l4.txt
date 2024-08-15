@@ -1,0 +1,3 @@
+.text$*4 tao ra 4 class text1 text2 text3 text4
+
+letter-spacing:5px; cach deu cac chu cai ra 5px

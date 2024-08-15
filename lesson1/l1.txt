@@ -1,0 +1,5 @@
+học cách sử dụng line-height
+muốn căn giữa theo chiều dọc thì dùng line-height
+ví dụ height : 30px;
+line-height:30px;
+căn giữa theo height
