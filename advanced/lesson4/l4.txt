@@ -1,0 +1,3 @@
+dashed la tao ra cac border _ _ _ _ _ _ _ _
+padding bottom thi phai padding cho the cha la container chu ko padding
+cho section ( the con ) se loi va ko padding bottom duoc

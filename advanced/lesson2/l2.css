@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 800px;
+    margin: auto;
+}
+
+
+.head input{
+    width: 350px;
+    height: 20px;
+    padding: 10px;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second input{
+    width: 778px;
+    height: 20px;
+    padding: 10px;
+}
+input{
+    margin-top: 10px;
+   
+}
+
+.right{
+   
+}
+.longText{
+    
+    margin-top: 10px;
+    
+
+}
+
+.longText>textarea{
+    height: 150px;
+    width:  779px;
+    padding: 10px;
+}
+
+button{
+    background-color: #7DCEFD;
+    width: 140px;
+    height: 30px;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+.button{
+    margin-top: 10px;
+    justify-content: space-between;
+    display: flex;
+}

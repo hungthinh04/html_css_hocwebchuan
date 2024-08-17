@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 700px;
+    background-color: #F2F3F5;
+    padding: 20px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px dashed #f44336;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section:last-child {
+    border-bottom: none;
+}
+
+.left {
+    height: 100px;
+    width: 150px;
+    line-height: 90px;
+    text-align: center;
+    background-color: #D997DE;
+}
+
+.left i {
+    color: #FFFFFF;
+}
+
+.right {
+    margin-left: 20px;
+}
+
+.right p {
+    margin-top: 5px;
+}
