@@ -1,0 +1,31 @@
+.container {
+  padding: 10px;
+  width: 1000px;
+  margin: auto;
+}
+.container .comments {
+  margin-top: 10px;
+  background-color: #FBFBFB;
+  padding: 10px 60px;
+}
+.container .comments .comments_head {
+  display: flex;
+  justify-content: space-between;
+}
+.container .comments .comments_head_left h3 {
+  display: inline-block;
+}
+.container .comments .comments_head_left .textColor {
+  margin-left: 5px;
+}
+.container .comments .comments_head_right {
+  margin-top: 20px;
+  width: 40px;
+  line-height: 30px;
+  text-align: center;
+  height: 30px;
+  border: 1px solid black;
+}
+.container .comments .comments_users {
+  margin-top: 20px;
+}/*# sourceMappingURL=l15.css.map */

@@ -1,0 +1,94 @@
+*{
+    list-style: none;
+}
+body{
+    padding: 40px;
+}
+.footer{
+    padding: 40px 60px;
+   
+    color: #565656;
+    background-color: #000000;
+    .footer_on{
+        
+        .footer_1{
+                
+               
+            form{
+                margin-top: 20px;
+                border-color: transparent;
+                input{
+                    height: 35px;
+                    width: 230px;
+                    padding: 0 20px;
+                }
+                button{
+                    height: 38px;
+                    padding: 0 20px;
+                    width: 60px;
+                    background-color: #01BACF;
+                    color: #E7F9FB;
+                    border-color: transparent;
+                }
+            }
+        }
+
+        display: flex;
+        .footer_right{
+            display: flex;
+        
+            .footer_2{
+                 margin-left: 200px;
+                ul > li{
+                    margin-top: 20px;
+                }
+                ul > li:first-child{
+                    margin-top: 0px;
+                }
+            }
+            .footer_3{
+                margin-left: 100px;
+                ul > li{
+                    margin-top: 20px;
+                }
+                ul > li:first-child{
+                    margin-top: 0px;
+                }
+            }
+            .footer_4{
+                margin-left: 100px;
+                ul > li{
+                    margin-top: 20px;
+                }
+                ul > li:first-child{
+                    margin-top: 0px;
+                }
+            }
+
+        }
+    }
+
+   
+}
+
+.footer_under_2{
+    .footer_under{
+        display: flex;
+        justify-content: space-around;
+background-color: #151515;
+        h1{
+            background-color: #8598CC;
+            font-weight: 100;
+            color: #E4E8F4  ;
+            width: 170px;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+        }
+
+        p{
+         line-height: 50px;
+         color: #3F3F3F;
+        }
+    }
+}

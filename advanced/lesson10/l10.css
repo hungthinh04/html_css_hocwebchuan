@@ -1,0 +1,47 @@
+section .on {
+  background-color: #01BACF;
+  padding: 40px 50px;
+  font-size: 24px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+section .under {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 0;
+  background-color: #f8f8f8;
+}
+section .under .img {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-top: -60px;
+}
+section .under .img i {
+  font-size: 50px;
+  color: #01BACF;
+  margin-bottom: 20px;
+}
+section .under .img h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+section .under .img p {
+  font-size: 16px;
+  color: #777;
+}
+@media (max-width: 768px) {
+  section .under {
+    flex-direction: column;
+    align-items: center;
+  }
+  section .under .img {
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+}/*# sourceMappingURL=l10.css.map */

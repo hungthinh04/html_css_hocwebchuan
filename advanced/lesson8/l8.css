@@ -4,32 +4,48 @@
 
 .footer{
     margin: auto;
-    width: 600px;
+    width: 700px;
+}
+.footer_head p{
+        background-color: #FFB737;
+        height: 4px;
+        width: 60px;
 }
 
 .footer_right form{
-    margin-left: 50px;
+    margin-left: 150px;
     display: flex;
     flex-direction: column;
    
 }
 
 .footer_left .icon{
-    margin-top: 20px;
-    width: 150px;
+    margin-top: 40px;
+    width: 200px;
 }
 
 .footer_right input{
     height: 30px;
-    margin-top: 20px;
+    margin-top: 10px;
     width: 500px;
     padding: 5px;
 }
 
+
 .footer_right h1{
-    margin-left: 50px
+    margin-left: 150px
+}
+.footer_body{
+    width: 1000px;
 }
 
+.footer_left .icon{
+    display: flex;
+}
+.footer_left .icon .text_right{
+    margin-left: 10px;
+    
+}
 textarea{
     margin-top: 20px;
     height: 120px;

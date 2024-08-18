@@ -1,0 +1,38 @@
+.container{
+    padding: 10px;
+    width: 1000px;
+    margin: auto;
+    .comments{
+        margin-top: 10px;
+        background-color: #FBFBFB;
+       .comments_head{
+        display: flex;
+        justify-content: space-between;
+       }
+        padding: 10px 60px;
+        .comments_head_left{
+            h3{
+                display: inline-block;
+              
+              
+             }
+             .textColor{
+                margin-left: 5px;
+            }
+             .comments_time{
+               
+             }
+        }
+        .comments_head_right{
+            margin-top: 20px;
+            width: 40px;
+            line-height: 30px;
+            text-align: center;
+            height: 30px;
+            border: 1px solid black;
+        }
+        .comments_users{
+            margin-top: 20px;
+        }
+    }
+}

@@ -1,0 +1,91 @@
+*{
+   margin: 0;
+   padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    background-color: #325C6A;
+    color: white;
+    width: 80%;
+    margin: auto;
+    .on{
+        display: flex;
+        padding: 20px;
+        .footer_1{
+            width: 30%;
+            p{
+              margin-top: 15px;  
+            }
+        }
+        .footer_2{
+            width: 30%;
+            margin-left: 50px;
+            ul{
+                margin-top: 20px;
+                margin-left: 70px;
+                li{
+                    margin-top: 10px;
+                }
+            }
+        }
+        .footer_3{
+            width: 30%;
+            margin-left: 20px;
+            .icon{
+                margin-top: 20px;
+                display: flex;
+                width: 80%;
+                .icon_facebook{
+                    margin-left: 10px;
+                    width: 25%;
+                    height: 50px;
+                    background-color: #3498DB;
+                    color: white;
+                    text-align: center;
+                    line-height: 50px;
+                }
+                .icon_linkedin{
+                    margin-left: 10px;
+                    width: 25%;
+                    height: 50px;
+                    background-color: #E74C3C;
+                    color: white;
+                    text-align: center;
+                    line-height: 50px;
+                }
+                .icon_twitter{
+                    margin-left: 10px;
+                    width: 25%;
+                    height: 50px;
+                    background-color: #2C3E50;
+                    color: white;
+                    text-align: center;
+                    line-height: 50px;
+                }
+                .icon_google_plus{
+                    margin-left: 10px;
+                    width: 25%;
+                    height: 50px;
+                    background-color: #3498DB;
+                    color: white;
+                    text-align: center;
+                    line-height: 50px;
+                }
+            }
+        }
+       
+    }
+    hr{
+        margin: 40px 0;
+    
+    }
+
+.under{
+text-align: center;
+height: 50px;
+}
+}
+
+
+
